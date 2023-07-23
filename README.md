@@ -1,2 +1,2 @@
-# Calculator
-Created a Calculator using html, css 
+# task-5
+Created a Calculator using HTML, CSS, Javascript
